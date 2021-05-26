@@ -1,0 +1,3 @@
+git:
+  local: kaizen
+  uri: https://github.com/kaizen-org/crawler_dev.git
